@@ -1,0 +1,7 @@
+[package]
+name = "bucket_brigade_preallocated_chunking"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# None!
